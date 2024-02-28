@@ -24,6 +24,4 @@ public class Product {
     private double price;
     private Integer quantity;
     private Integer address;
-
-
 }
